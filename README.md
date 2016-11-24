@@ -34,3 +34,10 @@ Este repositorio Contiene:
 #  Architecture - Arquitectura
 
 ![Portada](https://github.com/JhonControl/ESP8266_GPIO_MQTT_Node_Red/blob/master/extras/arch.PNG)
+
+
+#More info - Mas Informacion:
+Ingles
+http://pdacontrolen.com
+Español
+http://pdacontroles.com
